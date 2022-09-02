@@ -13,7 +13,6 @@ function createPromise(position, delay) {
     }, delay);
   });
 };
-
 function onSubmit(event) {
   event.preventDefault();
   const form = event.currentTarget;

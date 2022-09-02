@@ -1,19 +1,6 @@
 import flatpickr from "flatpickr";
 import "flatpickr/dist/flatpickr.min.css";
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-
-
-
-
-
-
-
-
-
-
-
-
-
 const btnStartRef = document.querySelector('[data-start]');
 const spanDaysRef = document.querySelector('[data-days]');
 const spanHoursRef = document.querySelector('[data-hours]');
